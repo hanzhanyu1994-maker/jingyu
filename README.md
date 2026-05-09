@@ -18,7 +18,7 @@ AI 对话与用量，一触即达。
 
 ## 📥 下载
 
-在 [Releases](hanzhanyu1994-maker/jingyu/releases) 页面下载最新版 HAP 安装包。
+在 [Releases](https://github.com/hanzhanyu1994-maker/jingyu/releases) 页面下载最新版 HAP 安装包。
 
 ### 安装方法
 
